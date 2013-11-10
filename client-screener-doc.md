@@ -21,21 +21,21 @@ I recommend you buy it: http://www.abookapart.com/products/design-is-a-job
 
 * What is most important about this project?
 
-: How important is each of these?
- Change in company strategy
- Rebranding/New image/Look and feel
- Engineering/Backend development
- Improving key metrics/Quantifying success or results/Conversion
- Content strategy/writing
- Understanding your audience or organization
- Getting it done as fast as possible
- Getting it done as inexpensively as possible
- Differentiating from competition
- Reach new audience
- Better demonstrate value or correct misconceptions
- Working relationship/communication with your design partner
- Who is/are your audience/your target users/your customers?
- What does success look like? How will you know this project has succeeded?
+How important is each of these?
+: Change in company strategy
+: Rebranding/New image/Look and feel
+: Engineering/Backend development
+: Improving key metrics/Quantifying success or results/Conversion
+: Content strategy/writing
+: Understanding your audience or organization
+: Getting it done as fast as possible
+: Getting it done as inexpensively as possible
+: Differentiating from competition
+: Reach new audience
+: Better demonstrate value or correct misconceptions
+: Working relationship/communication with your design partner
+: Who is/are your audience/your target users/your customers?
+: What does success look like? How will you know this project has succeeded?
 
 * What are you worried about? What do you imagine going wrong?
 
